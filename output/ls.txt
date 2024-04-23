@@ -1,4 +1,14 @@
+copy.txt
+date.txt
+ifconfig.txt
 ls.txt
+mount.txt
+mount1.txt
 my_file.txt
+netstat.txt
+permissions.txt
+process.txt
+ps.txt
 pwd.txt
 read.txt
+textcount.txt
