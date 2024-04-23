@@ -11,4 +11,5 @@ process.txt
 ps.txt
 pwd.txt
 read.txt
+regex.txt
 textcount.txt
